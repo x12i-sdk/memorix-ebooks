@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/memorix-ebooks",
+  "packageVersion": "1.0.1",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/memorix-ebooks",
+  "usageRepository": "https://github.com/x12i-sdk/memorix-ebooks",
+  "sourceRepository": null,
+  "sourceCommit": null,
+  "sourcePackageDirectory": null,
+  "example": {
+    "title": "List the bundled guides and read a use case",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:03:35.045030+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "650e24216c4c8b8303fe8adb4f3c9c99dfbf13ca54a867d7746f089463451bc1",
+    "manifestSha256": "93671a6ada9c72732e9cce6d3b13689371dc5b99bb9063ee1c679642fcb5cc89"
+  },
+  "npmPackages": [
+    "@x12i/memorix-ebooks"
+  ],
+  "publisher": "x12i-publisher[bot]"
+}
